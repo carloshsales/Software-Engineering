@@ -1,2 +1,2 @@
-# Software-Engineering
-All the exercices and projects to college
+# Software Engineering - College
+All the exercices and projects.
