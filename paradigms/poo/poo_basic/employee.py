@@ -1,4 +1,4 @@
-from person import Person
+from poo_basic.person import Person
 
 class Employee(Person):
     def __init__(self, age: int, name: str, occupation: str, salary: object) -> None:

@@ -1,5 +1,5 @@
-from employee import Employee
-from salary import Salary
+from poo_basic.employee import Employee
+from poo_basic.salary import Salary
 
 age = 20
 name = "Jupiter"
