@@ -1,6 +1,7 @@
 from poo_basic.employee import Employee
 from poo_basic.salary import Salary
 
+
 age = 20
 name = "Jupiter"
 occupation = "Software Engeneer"

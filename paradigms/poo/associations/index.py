@@ -12,4 +12,4 @@ needForSpeed = Game("Need for Speed", dateNFS.strftime("%Y-%m-%d",), ["Arcade", 
 
 myPublisher = Publisher("MyPub", [godOfWar, needForSpeed]) #agregation
 
-myPublisher.getInformation()
+print(myPublisher.getInformation())
