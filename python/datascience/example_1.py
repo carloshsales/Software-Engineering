@@ -10,7 +10,7 @@ cases = archive[['casos']]
 #DATA-MINING
 linear_reg = LinearRegression()
 linear_reg.fit(X = years, y = cases)
-from_year = [[2048]]
+from_year = [[2024]]
 from_cases = linear_reg.predict(from_year)
 
 print(f"2018: cases prevision : {int(from_cases)}")
