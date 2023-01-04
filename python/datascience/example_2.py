@@ -38,7 +38,7 @@ print("################################################\n")
 
 result = export_text(tree, feature_names=iris['feature_names'])
 print("Structure Tree")
-print(result)
+print(result)#FINAL
 
 
 
